@@ -2,7 +2,10 @@
 Tanner Josiah Peck - Engineering and Design Portfolio
 
 ## Background 
-Education: B.S in Mechanical Engineering from Syracuse University
+Bachelor of Science in Mechanical Engineering from Syracuse University
+Skills: Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, Microsoft (Word, Powerpoint, Excel), 
+3D Printing, Mechanical Assembly, Machine Lab Trained
+
 ---
 layout: home
 title: "Tanner Josiah Peck"
@@ -12,25 +15,57 @@ author_profile: true
 
 ## Personal & Passion Projects
 
-### Project 1: Custom Drone Controller
-![Drone Controller](/images/drone-controller.jpg)
-Designed a dual-screen drone controller with night-vision usability, custom directional antenna mounts, and modular input controls using CAD in SolidWorks.
+### 3D Printed Projects
+#### Design Based 
+![College Dorm Room](/images/room.jpg)
+Designed in Onshape
+![Luke's Lightsaber](/images/luke-lightsaber.jpg)
+Designed in Autodesk Inventor 
+![Millenium Falcon](/images/falcon.jpg)
+Designed in Autodesk Inventor 
+![64-Bit Mini Mario](/images/mario.jpg)
+Designed in Autodesk Inventor 
 
-### Project 2: 3D Printed Modular Desk Organizer
-![Desk Organizer](/images/desk-organizer.jpg)
-Used FDM printing and parametric design to create a customizable desk tool for engineering students.
+#### Downloaded Prints
+![Han's Baster](/images/blaster.jpg)
+Downloaded the file and printed 
+![Dark Saber](/images/dark-saber.jpg)
+Downloaded the file and printed 
+![Master Cheif Bust](/images/mc-bust.jpg)
+Downloaded the file and printed 
+![Buddah Darth Vader](/images/darth-vader.jpg)
+Downloaded the file and printed 
+
+### Other Personal Projects
+![Assemnbled Ender 3 3D Printer](/images/door-lock.jpg)
+![Spider-Man Remote Control Door Lock](/images/door-lock.jpg)
+Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
 
 ---
 
-## Professional Project & Work Experience 
+## Professional Projects & Work Experience 
 
-### Project 1: RedCat Teal 2 Controller Accessories
-![Teal2 Accessories](/images/teal2-accessories.jpg)
-Developed field-attachable accessories for a military-grade drone controller, including glare-reducing screens and improved ergonomic grips.
+### Engineering Internship at Lasko Products
+Managed multiple projects in different divisions of Lasko Products as the sole Engineering Intern
+![Product Breakdown and Cost Analysis](/images/door-lock.jpg)
+Took apart and categorized all parts of multiple models of fans, blowers, heaters, and even dehumidifiers to create a detailed cost analysis of the materials used in each model. Each unit was taken apart, and all the materials were weighed, down to the copper in the wiring. 
+![2000 CFM Test Chamber](/images/door-lock.jpg)
+Operated a 2000 CFM Test Chamber developed by Airflow Measurement Systems. Was tasked to correlated results from the chamber with data received from outsourced testing to asses accuracy of the machine. I also wrote an operating procedure for testing Box Fan units on this specific model.
+![Motor Failure Testing](/images/door-lock.jpg)
+Ran locked rotary tests on multiple models of fan motors in order to identify if any models were unsafe when surrounded by a flammable material like insulation. Each motor had the TCU (thermal cutoff) removed, which is the mechanism that shuts down the motor if it gets too hot. 
+![Heat Rise Testing](/images/door-lock.jpg)
+Developed and wrote the operating procedure for a Heat-Rise Testing Room. This room was used as a control area to gauge how effective different models of household heaters are at changing the temperature of a room. Soldered and set up thermocouples throughout the room connecting them to a DATAQ analyzer, and ran multiple base tests to asses the sucess of the project.
 
-### Project 2: Manufacturing Line Optimization
-![Manufacturing](/images/manufacturing.jpg)
-Assisted in layout optimization for a small-batch additive manufacturing facility using lean methods.
+
+### WEB GCS Accessories Project with RedCat Holdings 
+Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light blocking stealth shields
+
+![Secondary Display Unit](/images/teal2-accessories.jpg)
+Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light blocking stealth shields
+![Sunshade / Protective Cover](/images/teal2-accessories.jpg)
+Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light blocking stealth shields
+![Directional Antenna](/images/teal2-accessories.jpg)
+Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light blocking stealth shields
 
 ---
 
