@@ -86,8 +86,9 @@ Developed field-attachable accessories for a military-grade drone controller, in
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
 
 ##### Sunshade/Protective Cover
-![Sunshade/Protective Cover](/images/teal2-accessories.jpg)
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader.jpg)
+![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader-2.jpg)
 
 ##### Directional Antenna
 ![Directional Antenna](/images/teal2-accessories.jpg)
