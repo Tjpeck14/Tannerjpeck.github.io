@@ -13,7 +13,7 @@ Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, M
 ## Professional Projects & Work Experience 
 
 
-### * Engineering Internship at Lasko Products
+### * Engineering Internship at Lasko Products, West Chester PA
 Managed multiple projects in different divisions of Lasko Products as the sole Engineering Intern
 
 ##### - Product Breakdown and Cost Analysis
@@ -40,7 +40,7 @@ Developed and wrote the operating procedure for a Heat-Rise Testing Room. This r
 ![Heat Rise Testing](docs/assets/Lasko-Heat-Rise-2.jpg)
 
 
-### * WEB GCS Accessories Project with RedCat Holdings 
+### * WEB GCS Accessories Project with RedCat Holdings, Salt Lake City UT
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
 
 ![WEB GCS](docs/assets/REDCAT-SOLIDWORKS-Assembly-2.jpg)
