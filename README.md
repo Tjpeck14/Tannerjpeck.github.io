@@ -1,6 +1,8 @@
 # Tannerjpeck.github.io
 Tanner Josiah Peck - Engineering and Design Portfolio
 
+## Background 
+Education: B.S in Mechanical Engineering from Syracuse University
 ---
 layout: home
 title: "Tanner Josiah Peck"
@@ -8,7 +10,7 @@ subtitle: "Engineering Design Portfolio"
 author_profile: true
 ---
 
-## 🚀 Personal & Passion Projects
+## Personal & Passion Projects
 
 ### Project 1: Custom Drone Controller
 ![Drone Controller](/images/drone-controller.jpg)
@@ -20,7 +22,7 @@ Used FDM printing and parametric design to create a customizable desk tool for e
 
 ---
 
-## 🛠️ Professional & Work Projects
+## Professional Project & Work Experience 
 
 ### Project 1: RedCat Teal 2 Controller Accessories
 ![Teal2 Accessories](/images/teal2-accessories.jpg)
@@ -32,7 +34,7 @@ Assisted in layout optimization for a small-batch additive manufacturing facilit
 
 ---
 
-## 🎓 School & Educational Projects
+## School Projects and Educational Pursuits 
 
 ### Project 1: Linear Inverted Pendulum Control
 ![LIP Control](/images/lip.jpg)
