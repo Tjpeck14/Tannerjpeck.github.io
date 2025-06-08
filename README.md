@@ -178,6 +178,7 @@ Created a fully functional, screen-accurate remote control door lock as seen in 
 ![Rocket Design](docs/assets/Rocket-5.jpg)
 ![Rocket Design](docs/assets/Rocket-6.jpg)
 ![Rocket Design](docs/assets/Rocket-7.jpg)
+![Rocket Design](docs/assets/Rocket-8.jpg)
 ![Rocket Design](docs/assets/Rocket-Engine.jpg)
 ![Rocket Design](docs/assets/Rocket-Engine-Diagram.jpg)
 ![Rocket Design](docs/assets/Rocket-Fuel-Pump.jpg)
