@@ -90,6 +90,7 @@ Used Ansys to simulate fatigue behavior of PA12-polyamide hinges under repeated 
 
 ##### - Obi-Wan's Lightsaber
 Designed in Autodesk Inventor
+
 ![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-Render.jpg)
 ![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber.jpg)
 ![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-2.jpg)
@@ -97,15 +98,18 @@ Designed in Autodesk Inventor
 
 ##### - Luke's Lightsaber
 Designed in Autodesk Inventor
+
 ![Luke's Lightsaber](docs/assets/Luke-Lightsaber-Render.jpg)
 
 ##### - Millennium Falcon
+
 Designed in Autodesk Inventor 
 ![Millenium Falcon](docs/assets/Millenium-falcon.jpg)
 ![Millenium Falcon](docs/assets/Millenium-falcon-2.jpg)
 
 ##### - 64-Bit Mario
-Designed in Autodesk Inventor 
+Designed in Autodesk Inventor
+
 ![64-Bit Mini Mario](docs/assets/Mario.jpg)
 ![64-Bit Mini Mario](docs/assets/Mario-2.jpg)
 
@@ -115,16 +119,19 @@ Designed in Autodesk Inventor
 
 ##### - Han's Blaster
 Downloaded the file and printed
+
 ![Han's Baster](docs/assets/Hans-blaster.jpg)
 ![Han's Baster](docs/assets/Hans-blaster-2.jpg)
 
 ##### - Dark Saber
 Downloaded the file and printed 
+
 ![Dark Saber](docs/assets/Darksaber-2.jpg)
 ![Dark Saber](docs/assets/Darksaber.jpg)
 
 ##### - Master Chief Bust
 Downloaded the file and printed 
+
 ![Master Cheif Bust](docs/assets/Master-Chief.jpg)
 ![Master Cheif Bust](docs/assets/Master-Chief-2.jpg)
 ![Master Cheif Bust](docs/assets/Master-Chief-3.jpg)
@@ -132,11 +139,13 @@ Downloaded the file and printed
 
 ##### - Buddha Darth Vader
 Downloaded the file and printed 
+
 ![Buddah Darth Vader](docs/assets/Darth-Buddah.jpg)
 ![Buddah Darth Vader](docs/assets/Darth-Buddah-2.jpg)
 
 ##### - Pellet Gun
 Downloaded the file and printed 
+
 ![Pellet Gun](docs/assets/Pellet-gun.jpg)
 ![Pellet Gun](docs/assets/Pellet-gun-2.jpg)
 
@@ -154,11 +163,13 @@ Designed in Onshape
 
 ##### - Remote Control Door Lock
 Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
+
 ![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock.jpg)
 ![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock-2.jpg)
 
 
 ##### - Rocket Design 
+
 ![Rocket Design](docs/assets/Rocket-Full.jpg)
 ![Rocket Design](docs/assets/Rocket-1.jpg)
 ![Rocket Design](docs/assets/Rocket-2.jpg)
