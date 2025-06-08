@@ -1,6 +1,5 @@
 
-# Tanner Josiah Peck
-# Engineering and Design Portfolio
+# Tanner Josiah Peck - Engineering and Design Portfolio
 
 ## Background 
 
