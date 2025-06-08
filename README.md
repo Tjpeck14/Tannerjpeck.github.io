@@ -80,10 +80,14 @@ Developed and wrote the operating procedure for a Heat-Rise Testing Room. This r
 
 ### WEB GCS Accessories Project with RedCat Holdings 
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+![WEB GCS](docs/assets/REDCAT-SOLIDWORKS-Assembly-2.jpg)
+![WEB GCS](docs/assets/REDCAT-SOLIDWORKS-Assembly.jpg)
+![WEB GCS](docs/assets/REDCAT-Assembly.jpg)
 
 ##### Secondary Display Unit
-![Secondary Display Unit](/images/teal2-accessories.jpg)
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+![Secondary Display Unit](docs/assets/REDCAT-SOLIDWORKS-Screen.jpg)
+![Secondary Display Unit](docs/assets/REDCAT-Screen.jpg)
 
 ##### Sunshade/Protective Cover
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
@@ -91,8 +95,8 @@ Developed field-attachable accessories for a military-grade drone controller, in
 ![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader-2.jpg)
 
 ##### Directional Antenna
-![Directional Antenna](/images/teal2-accessories.jpg)
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+![Directional Antenna](docs/assets/REDCAT-Antenna-Specs.jpg) 
 
 ---
 
