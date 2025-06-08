@@ -1,3 +1,4 @@
+remote_theme: mmistakes/simpler@v1.3.0 
 # Tannerjpeck.github.io
 Tanner Josiah Peck - Engineering and Design Portfolio
 
