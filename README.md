@@ -19,7 +19,7 @@ Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, M
 
 ##### College Dorm Room
 ![College Dorm Room](docs/assets/Dorm-Room.jpg)
-![College Dorm Room](docs/assets/Dorm-Room-2.jpg)
+![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
 ![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
 Designed in Onshape
 ##### Luke's Lightsaber
