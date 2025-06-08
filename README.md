@@ -1,10 +1,9 @@
 
 # Tanner Josiah Peck - Engineering and Design Portfolio
 
-## Background 
+### Background 
+B.S in Mechanical Engineering,Syracuse University
 
-### Syracuse University
-Bachelor of Science in Mechanical Engineering
 ### Skills
 Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, Microsoft (Word, Powerpoint, Excel), 
 3D Printing, Mechanical Assembly, Machine Lab Trained
