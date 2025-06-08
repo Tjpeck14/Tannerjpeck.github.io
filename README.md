@@ -14,12 +14,10 @@ Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, M
 
 ## Professional Projects & Work Experience 
 
----
 
 ### * Engineering Internship at Lasko Products
 Managed multiple projects in different divisions of Lasko Products as the sole Engineering Intern
 
---- 
 ##### - Product Breakdown and Cost Analysis
 Took apart and categorized all parts of multiple models of fans, blowers, heaters, and even dehumidifiers to create a detailed cost analysis of the materials used in each model. Each unit was taken apart, and all the materials were weighed, down to the copper in the wiring. 
 
@@ -29,7 +27,6 @@ Operated a 2000 CFM Test Chamber developed by Airflow Measurement Systems. Was t
 ![2000 CFM Test Chamber](docs/assets/Lasko-CFM.jpg)
 ![2000 CFM Test Chamber](docs/assets/Lasko-CFM-2.jpg)
 
----
 
 ##### - Motor Failure Testing
 Ran locked rotary tests on multiple models of fan motors to identify if any models were unsafe when surrounded by a flammable material like insulation. Each motor had the TCU (thermal cutoff) removed, which is the mechanism that shuts down the motor if it gets too hot. 
@@ -37,7 +34,6 @@ Ran locked rotary tests on multiple models of fan motors to identify if any mode
 ![Motor Failure Testing](docs/assets/Lasko-Motor.jpg)
 ![Motor Failure Testing](docs/assets/Lasko-Motor-2.jpg)
 
----
 
 ##### - Heat Rise Testing
 Developed and wrote the operating procedure for a Heat-Rise Testing Room. This room was used as a control area to gauge how effective different models of household heaters are at changing the temperature of a room. Soldered and set up thermocouples throughout the room connecting them to a DATAQ analyzer, and ran multiple base tests to asses the sucess of the project.
@@ -45,7 +41,6 @@ Developed and wrote the operating procedure for a Heat-Rise Testing Room. This r
 ![Heat Rise Testing](docs/assets/Lasko-Heat-Rise.jpg)
 ![Heat Rise Testing](docs/assets/Lasko-Heat-Rise-2.jpg)
 
----
 
 ### * WEB GCS Accessories Project with RedCat Holdings 
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
@@ -60,7 +55,6 @@ Developed field-attachable accessories for a military-grade drone controller, in
 ![Secondary Display Unit](docs/assets/REDCAT-SOLIDWORKS-Screen.jpg)
 ![Secondary Display Unit](docs/assets/REDCAT-Screen.jpg)
 
----
 
 ##### - Sunshade/Protective Cover
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
@@ -68,7 +62,6 @@ Developed field-attachable accessories for a military-grade drone controller, in
 ![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader.jpg)
 ![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader-2.jpg)
 
----
 
 ##### - Directional Antenna
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
@@ -95,15 +88,6 @@ Used Ansys to simulate fatigue behavior of PA12-polyamide hinges under repeated 
 
 #### * Design Based 
 
-##### - College Dorm Room
-Designed in Onshape
-
-![College Dorm Room](docs/assets/Dorm-Room.jpg)
-![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
-![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
-
----
-
 ##### - Obi-Wan's Lightsaber
 Designed in Autodesk Inventor
 ![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-Render.jpg)
@@ -111,20 +95,14 @@ Designed in Autodesk Inventor
 ![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-2.jpg)
 ![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-3.jpg)
 
-
 ##### - Luke's Lightsaber
 Designed in Autodesk Inventor
 ![Luke's Lightsaber](docs/assets/Luke-Lightsaber-Render.jpg)
-
-
----
 
 ##### - Millennium Falcon
 Designed in Autodesk Inventor 
 ![Millenium Falcon](docs/assets/Millenium-falcon.jpg)
 ![Millenium Falcon](docs/assets/Millenium-falcon-2.jpg)
-
----
 
 ##### - 64-Bit Mario
 Designed in Autodesk Inventor 
@@ -140,14 +118,10 @@ Downloaded the file and printed
 ![Han's Baster](docs/assets/Hans-blaster.jpg)
 ![Han's Baster](docs/assets/Hans-blaster-2.jpg)
 
----
-
 ##### - Dark Saber
 Downloaded the file and printed 
 ![Dark Saber](docs/assets/Darksaber-2.jpg)
 ![Dark Saber](docs/assets/Darksaber.jpg)
-
----
 
 ##### - Master Chief Bust
 Downloaded the file and printed 
@@ -155,7 +129,6 @@ Downloaded the file and printed
 ![Master Cheif Bust](docs/assets/Master-Chief-2.jpg)
 ![Master Cheif Bust](docs/assets/Master-Chief-3.jpg)
 
----
 
 ##### - Buddha Darth Vader
 Downloaded the file and printed 
@@ -171,12 +144,19 @@ Downloaded the file and printed
 
 ### Other Personal Projects
 
-##### - Spider-Man Door Lock
+##### - College Dorm Room Layout
+Designed in Onshape
+
+![College Dorm Room](docs/assets/Dorm-Room.jpg)
+![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
+![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
+
+
+##### - Remote Control Door Lock
 Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
 ![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock.jpg)
 ![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock-2.jpg)
 
----
 
 ##### - Rocket Design 
 ![Rocket Design](docs/assets/Rocket-Full.jpg)
@@ -190,3 +170,5 @@ Created a fully functional, screen-accurate remote control door lock as seen in 
 ![Rocket Design](docs/assets/Rocket-Engine.jpg)
 ![Rocket Design](docs/assets/Rocket-Engine-Diagram.jpg)
 ![Rocket Design](docs/assets/Rocket-Fuel-Pump.jpg)
+
+---
