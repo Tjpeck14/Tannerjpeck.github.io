@@ -19,25 +19,30 @@ Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, M
 
 ##### - College Dorm Room
 Designed in Onshape
+
 ![College Dorm Room](docs/assets/Dorm-Room.jpg)
 ![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
 ![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
 
+---
 
 ##### - Luke's Lightsaber
 ![Luke's Lightsaber](/images/luke-lightsaber.jpg)
 Designed in Autodesk Inventor
 
+---
 
 ##### - Millennium Falcon
 ![Millenium Falcon](/images/falcon.jpg)
 Designed in Autodesk Inventor 
 
+---
 
 ##### - 64-Bit Mini Mario
 ![64-Bit Mini Mario](/images/mario.jpg)
 Designed in Autodesk Inventor 
 
+---
 
 #### * Downloaded Prints
 
@@ -45,26 +50,32 @@ Designed in Autodesk Inventor
 ![Han's Baster](/images/blaster.jpg)
 Downloaded the file and printed
 
+---
 
 ##### - Dark Saber
 ![Dark Saber](/images/dark-saber.jpg)
 Downloaded the file and printed 
 
+---
 
 ##### - Master Chief Bust
 ![Master Cheif Bust](/images/mc-bust.jpg)
 Downloaded the file and printed 
 
+---
 
 ##### - Buddha Darth Vader
 ![Buddah Darth Vader](/images/darth-vader.jpg)
 Downloaded the file and printed 
+
+---
 
 ### Other Personal Projects
 
 ##### - Ender 3D Printer 
 ![Assemnbled Ender 3 3D Printer](/images/door-lock.jpg)
 
+---
 
 ##### - Spider-Man Door Lock
 ![Spider-Man Remote Control Door Lock](/images/door-lock.jpg)
@@ -80,50 +91,62 @@ Managed multiple projects in different divisions of Lasko Products as the sole E
 ##### - Product Breakdown and Cost Analysis
 Took apart and categorized all parts of multiple models of fans, blowers, heaters, and even dehumidifiers to create a detailed cost analysis of the materials used in each model. Each unit was taken apart, and all the materials were weighed, down to the copper in the wiring. 
 
-
+---
 
 ##### - 2000 CFM Test Chamber
 Operated a 2000 CFM Test Chamber developed by Airflow Measurement Systems. Was tasked to correlated results from the chamber with data received from outsourced testing to asses accuracy of the machine. I also wrote an operating procedure for testing Box Fan units on this specific model.
+
 ![2000 CFM Test Chamber](docs/assets/Lasko-CFM.jpg)
 ![2000 CFM Test Chamber](docs/assets/Lasko-CFM-2.jpg)
 
+---
 
 ##### - Motor Failure Testing
 Ran locked rotary tests on multiple models of fan motors to identify if any models were unsafe when surrounded by a flammable material like insulation. Each motor had the TCU (thermal cutoff) removed, which is the mechanism that shuts down the motor if it gets too hot. 
+
 ![Motor Failure Testing](docs/assets/Lasko-Motor.jpg)
 ![Motor Failure Testing](docs/assets/Lasko-Motor-2.jpg)
 
+---
 
 ##### - Heat Rise Testing
 Developed and wrote the operating procedure for a Heat-Rise Testing Room. This room was used as a control area to gauge how effective different models of household heaters are at changing the temperature of a room. Soldered and set up thermocouples throughout the room connecting them to a DATAQ analyzer, and ran multiple base tests to asses the sucess of the project.
+
 ![Heat Rise Testing](docs/assets/Lasko-Heat-Rise.jpg)
 ![Heat Rise Testing](docs/assets/Lasko-Heat-Rise-2.jpg)
 
+---
 
 ### WEB GCS Accessories Project with RedCat Holdings 
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+
 ![WEB GCS](docs/assets/REDCAT-SOLIDWORKS-Assembly-2.jpg)
 ![WEB GCS](docs/assets/REDCAT-SOLIDWORKS-Assembly.jpg)
 ![WEB GCS](docs/assets/REDCAT-Assembly.jpg)
 
 ##### - Secondary Display Unit
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+
 ![Secondary Display Unit](docs/assets/REDCAT-SOLIDWORKS-Screen.jpg)
 ![Secondary Display Unit](docs/assets/REDCAT-Screen.jpg)
 
+---
 
 ##### - Sunshade/Protective Cover
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+
 ![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader.jpg)
 ![Sunshade/Protective Cover](docs/assets/REDCAT-SOLIDWORKS-Shader-2.jpg)
 
+---
 
 ##### - Directional Antenna
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
+
 ![Directional Antenna](docs/assets/REDCAT-Antenna-Specs.jpg) 
 
-
 ---
+
 
 ## School Projects and Educational Pursuits 
 
