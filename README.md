@@ -9,89 +9,19 @@ Bachelor of Science in Mechanical Engineering
 ### Skills
 Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, Microsoft (Word, Powerpoint, Excel), 
 3D Printing, Mechanical Assembly, Machine Lab Trained
----
-
-## Personal & Passion Projects
-
-### 3D Printed Projects
-
-#### * Design Based 
-
-##### - College Dorm Room
-Designed in Onshape
-
-![College Dorm Room](docs/assets/Dorm-Room.jpg)
-![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
-![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
-
----
-
-##### - Luke's Lightsaber
-![Luke's Lightsaber](/images/luke-lightsaber.jpg)
-Designed in Autodesk Inventor
-
----
-
-##### - Millennium Falcon
-![Millenium Falcon](/images/falcon.jpg)
-Designed in Autodesk Inventor 
-
----
-
-##### - 64-Bit Mini Mario
-![64-Bit Mini Mario](/images/mario.jpg)
-Designed in Autodesk Inventor 
-
----
-
-#### * Downloaded Prints
-
-##### - Han's Blaster
-![Han's Baster](/images/blaster.jpg)
-Downloaded the file and printed
-
----
-
-##### - Dark Saber
-![Dark Saber](/images/dark-saber.jpg)
-Downloaded the file and printed 
-
----
-
-##### - Master Chief Bust
-![Master Cheif Bust](/images/mc-bust.jpg)
-Downloaded the file and printed 
-
----
-
-##### - Buddha Darth Vader
-![Buddah Darth Vader](/images/darth-vader.jpg)
-Downloaded the file and printed 
-
----
-
-### Other Personal Projects
-
-##### - Ender 3D Printer 
-![Assemnbled Ender 3 3D Printer](/images/door-lock.jpg)
-
----
-
-##### - Spider-Man Door Lock
-![Spider-Man Remote Control Door Lock](/images/door-lock.jpg)
-Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
 
 ---
 
 ## Professional Projects & Work Experience 
 
-### Engineering Internship at Lasko Products
+---
+
+### * Engineering Internship at Lasko Products
 Managed multiple projects in different divisions of Lasko Products as the sole Engineering Intern
 
+--- 
 ##### - Product Breakdown and Cost Analysis
 Took apart and categorized all parts of multiple models of fans, blowers, heaters, and even dehumidifiers to create a detailed cost analysis of the materials used in each model. Each unit was taken apart, and all the materials were weighed, down to the copper in the wiring. 
-
----
 
 ##### - 2000 CFM Test Chamber
 Operated a 2000 CFM Test Chamber developed by Airflow Measurement Systems. Was tasked to correlated results from the chamber with data received from outsourced testing to asses accuracy of the machine. I also wrote an operating procedure for testing Box Fan units on this specific model.
@@ -117,7 +47,7 @@ Developed and wrote the operating procedure for a Heat-Rise Testing Room. This r
 
 ---
 
-### WEB GCS Accessories Project with RedCat Holdings 
+### * WEB GCS Accessories Project with RedCat Holdings 
 Developed field-attachable accessories for a military-grade drone controller, including a secondary display unit, glare-reducing screens, and light-blocking stealth shields
 
 ![WEB GCS](docs/assets/REDCAT-SOLIDWORKS-Assembly-2.jpg)
@@ -147,7 +77,6 @@ Developed field-attachable accessories for a military-grade drone controller, in
 
 ---
 
-
 ## School Projects and Educational Pursuits 
 
 ### - Project 1: Linear Inverted Pendulum Control
@@ -158,4 +87,106 @@ Implemented LQR state-feedback in MATLAB to control an inverted pendulum on a ca
 ![Fatigue Testing](/images/fatigue.jpg)
 Used Ansys to simulate fatigue behavior of PA12-polyamide hinges under repeated loading in aerospace mockups.
 
+
 ---
+## Personal & Passion Projects
+
+### 3D Printed Projects
+
+#### * Design Based 
+
+##### - College Dorm Room
+Designed in Onshape
+
+![College Dorm Room](docs/assets/Dorm-Room.jpg)
+![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
+![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
+
+---
+
+##### - Obi-Wan's Lightsaber
+Designed in Autodesk Inventor
+![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-Render.jpg)
+![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber.jpg)
+![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-2.jpg)
+![Obi-Wan's Lightsaber](docs/assets/ObiWan-Lightsaber-3.jpg)
+
+
+##### - Luke's Lightsaber
+Designed in Autodesk Inventor
+![Luke's Lightsaber](docs/assets/Luke-Lightsaber-Render.jpg)
+
+
+---
+
+##### - Millennium Falcon
+Designed in Autodesk Inventor 
+![Millenium Falcon](docs/assets/Millenium-falcon.jpg)
+![Millenium Falcon](docs/assets/Millenium-falcon-2.jpg)
+
+---
+
+##### - 64-Bit Mario
+Designed in Autodesk Inventor 
+![64-Bit Mini Mario](docs/assets/Mario.jpg)
+![64-Bit Mini Mario](docs/assets/Mario-2.jpg)
+
+---
+
+#### * Downloaded Prints
+
+##### - Han's Blaster
+Downloaded the file and printed
+![Han's Baster](docs/assets/Hans-blaster.jpg)
+![Han's Baster](docs/assets/Hans-blaster-2.jpg)
+
+---
+
+##### - Dark Saber
+Downloaded the file and printed 
+![Dark Saber](docs/assets/Darksaber-2.jpg)
+![Dark Saber](docs/assets/Darksaber.jpg)
+
+---
+
+##### - Master Chief Bust
+Downloaded the file and printed 
+![Master Cheif Bust](docs/assets/Master-Chief.jpg)
+![Master Cheif Bust](docs/assets/Master-Chief-2.jpg)
+![Master Cheif Bust](docs/assets/Master-Chief-3.jpg)
+
+---
+
+##### - Buddha Darth Vader
+Downloaded the file and printed 
+![Buddah Darth Vader](docs/assets/Darth-Buddah.jpg)
+![Buddah Darth Vader](docs/assets/Darth-Buddah-2.jpg)
+
+##### - Pellet Gun
+Downloaded the file and printed 
+![Pellet Gun](docs/assets/Pellet-gun.jpg)
+![Pellet Gun](docs/assets/Pellet-gun-2.jpg)
+
+---
+
+### Other Personal Projects
+
+##### - Spider-Man Door Lock
+Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
+![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock.jpg)
+![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock-2.jpg)
+
+---
+
+##### - Rocket Design 
+![Rocket Design](docs/assets/Rocket-Full.jpg)
+![Rocket Design](docs/assets/Rocket-1.jpg)
+![Rocket Design](docs/assets/Rocket-2.jpg)
+![Rocket Design](docs/assets/Rocket-3.jpg)
+![Rocket Design](docs/assets/Rocket-4.jpg)
+![Rocket Design](docs/assets/Rocket-5.jpg)
+![Rocket Design](docs/assets/Rocket-6.jpg)
+![Rocket Design](docs/assets/Rocket-7.jpg)
+![Rocket Design](docs/assets/Rocket-Engine.jpg)
+![Rocket Design](docs/assets/Rocket-Engine-Diagram.jpg)
+![Rocket Design](docs/assets/Rocket-Fuel-Pump.jpg)
