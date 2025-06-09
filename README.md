@@ -82,6 +82,37 @@ Used Ansys to simulate fatigue behavior of PA12-polyamide hinges under repeated 
 ---
 ## Personal & Passion Projects
 
+##### - College Dorm Room Layout
+Designed in Onshape
+
+![College Dorm Room](docs/assets/Dorm-Room.jpg)
+![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
+![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
+
+
+##### - Remote Control Door Lock
+Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
+
+![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock.jpg)
+![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock-2.jpg)
+
+
+##### - Rocket Design 
+
+![Rocket Design](docs/assets/Rocket-Full.jpg)
+![Rocket Design](docs/assets/Rocket-1.jpg)
+![Rocket Design](docs/assets/Rocket-2.jpg)
+![Rocket Design](docs/assets/Rocket-3.jpg)
+![Rocket Design](docs/assets/Rocket-4.jpg)
+![Rocket Design](docs/assets/Rocket-5.jpg)
+![Rocket Design](docs/assets/Rocket-6.jpg)
+![Rocket Design](docs/assets/Rocket-7.jpg)
+![Rocket Design](docs/assets/Rocket-Engine.jpg)
+![Rocket Design](docs/assets/Rocket-Engine-Diagram.jpg)
+![Rocket Design](docs/assets/Rocket-Fuel-Pump.jpg)
+
+---
+
 ### 3D Printed Projects
 
 #### * Design Based 
@@ -121,11 +152,20 @@ Downloaded the file and printed
 ![Han's Baster](docs/assets/Hans-blaster.jpg)
 ![Han's Baster](docs/assets/Hans-blaster-2.jpg)
 
+
 ##### - Dark Saber
 Downloaded the file and printed 
 
 ![Dark Saber](docs/assets/Darksaber-2.jpg)
 ![Dark Saber](docs/assets/Darksaber.jpg)
+
+
+##### - Pellet Gun
+Downloaded the file and printed 
+
+![Pellet Gun](docs/assets/Pellet-gun.jpg)
+![Pellet Gun](docs/assets/Pellet-gun-2.jpg)
+
 
 ##### - Master Chief Bust
 Downloaded the file and printed 
@@ -141,43 +181,6 @@ Downloaded the file and printed
 ![Buddah Darth Vader](docs/assets/Darth-Buddah.jpg)
 ![Buddah Darth Vader](docs/assets/Darth-Buddah-2.jpg)
 
-##### - Pellet Gun
-Downloaded the file and printed 
-
-![Pellet Gun](docs/assets/Pellet-gun.jpg)
-![Pellet Gun](docs/assets/Pellet-gun-2.jpg)
-
 ---
 
-### Other Personal Projects
 
-##### - College Dorm Room Layout
-Designed in Onshape
-
-![College Dorm Room](docs/assets/Dorm-Room.jpg)
-![College Dorm Room](docs/assets/Dorm-Room-2.jpg) 
-![College Dorm Room](docs/assets/Dorm-Room-3.jpg)
-
-
-##### - Remote Control Door Lock
-Created a fully functional, screen-accurate remote control door lock as seen in the 2012 Amazing Spider-Man movie. This lock was a bolt lock powered by a linear actuator and connected to a remote control switch, allowing me to lock and unlock the door without having to move. 
-
-![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock.jpg)
-![Spider-Man Remote Control Door Lock](docs/assets/Arduino-Lock-2.jpg)
-
-
-##### - Rocket Design 
-
-![Rocket Design](docs/assets/Rocket-Full.jpg)
-![Rocket Design](docs/assets/Rocket-1.jpg)
-![Rocket Design](docs/assets/Rocket-2.jpg)
-![Rocket Design](docs/assets/Rocket-3.jpg)
-![Rocket Design](docs/assets/Rocket-4.jpg)
-![Rocket Design](docs/assets/Rocket-5.jpg)
-![Rocket Design](docs/assets/Rocket-6.jpg)
-![Rocket Design](docs/assets/Rocket-7.jpg)
-![Rocket Design](docs/assets/Rocket-Engine.jpg)
-![Rocket Design](docs/assets/Rocket-Engine-Diagram.jpg)
-![Rocket Design](docs/assets/Rocket-Fuel-Pump.jpg)
-
----
