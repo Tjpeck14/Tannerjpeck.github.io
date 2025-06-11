@@ -9,9 +9,9 @@ title: "Tanner Josiah Peck - Engineering Portfolio"
   <p class="site-subtitle"></p>
 
   <div class="section-buttons">
-    <a href="#work-projects">Work</a>
-    <a href="#school-projects">School</a>
-    <a href="#personal-projects">Personal</a>
+    <a href="#work-projects">Professional Projects & Work Experience</a>
+    <a href="#school-projects">School Projects and Educational Pursuits</a>
+    <a href="#personal-projects">Personal & Passion Projects</a>
   </div>
 </div>
 
