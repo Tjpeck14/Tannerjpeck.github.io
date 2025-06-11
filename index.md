@@ -9,9 +9,9 @@ title: "Tanner Josiah Peck - Engineering Portfolio"
   <p class="site-subtitle"></p>
 
   <div class="section-buttons">
-    <a href="#work-projects">Professional Projects & Work Experience</a>
-    <a href="#school-projects">School Projects and Educational Pursuits</a>
-    <a href="#personal-projects">Personal & Passion Projects</a>
+    <a href="#work-projects">Work</a>
+    <a href="#school-projects">School </a>
+    <a href="#personal-projects">Personal </a>
   </div>
 </div>
 
@@ -53,7 +53,8 @@ Developed and wrote the operating procedure for a Heat-Rise Testing Room used to
 
 ---
 
-## <a id="school-projects"></a>WEB GCS Accessories Project with RedCat Holdings, Salt Lake City UT
+
+### WEB GCS Accessories Project with RedCat Holdings, Salt Lake City UT
 
 Developed field-attachable accessories for a military-grade drone controller, including:
 
