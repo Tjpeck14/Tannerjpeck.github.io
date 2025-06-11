@@ -1,5 +1,5 @@
 
-# Tanner Josiah Peck - Engineering and Design Portfolio
+
 
 ### Background 
 B.S in Mechanical Engineering, Syracuse University
