@@ -7,8 +7,12 @@
     const header = document.getElementById('top-header');
     if (window.scrollY > 100) {
       header.style.opacity = '0';
+      header.style.transform = 'translateY(-20px)';
+      header.style.pointerEvents = 'none';
     } else {
       header.style.opacity = '1';
+      header.style.transform = 'translateY(0)';
+      header.style.pointerEvents = 'auto';
     }
   });
 </script>
@@ -18,11 +22,12 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background: #0d1117;
+    background: rgba(13, 17, 23, 0.9);
     color: white;
     text-align: center;
     padding: 10px;
     z-index: 999;
-    transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    backdrop-filter: saturate(180%) blur(10px);
   }
 </style>
