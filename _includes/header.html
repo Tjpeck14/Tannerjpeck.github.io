@@ -1,0 +1,28 @@
+<header id="top-header" class="sticky-header">
+  <h1 class="site-title">Tanner Josiah Peck</h1>
+</header>
+
+<script>
+  window.addEventListener('scroll', function () {
+    const header = document.getElementById('top-header');
+    if (window.scrollY > 100) {
+      header.style.opacity = '0';
+    } else {
+      header.style.opacity = '1';
+    }
+  });
+</script>
+
+<style>
+  .sticky-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #0d1117;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    z-index: 999;
+    transition: opacity 0.5s ease;
+  }
+</style>
