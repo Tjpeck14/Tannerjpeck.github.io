@@ -1,1 +1,21 @@
-theme: jekyll-theme-hacker
+title: "Tanner Josiah Peck - Engineering Portfolio"
+description: "Mechanical Engineering Projects, CAD, and Design Work"
+theme: null
+
+# Site structure
+markdown: kramdown
+permalink: pretty
+
+# Socials (optional)
+github_username: tannerpeck
+linkedin_username: tannerpeck
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Custom variables
+show_header: true
+dark_theme: true
