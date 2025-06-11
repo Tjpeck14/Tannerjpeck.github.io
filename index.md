@@ -28,7 +28,7 @@ Solidworks, Autodesk Inventor, Onshape, MATLAB, RStudio, NI Multisim, Arduino, M
 
 ---
 
-## Professional Projects & Work Experience 
+## <a id="work-projects"></a>Professional Projects & Work Experienc
 
 
 ### * Engineering Internship at Lasko Products, West Chester PA
@@ -86,7 +86,7 @@ Developed field-attachable accessories for a military-grade drone controller, in
 
 ---
 
-## School Projects and Educational Pursuits 
+## <a id="school-projects"></a>School Projects and Educational Pursuits
 
 ### - Project 1: Linear Inverted Pendulum Control
 ![LIP Control](/images/lip.jpg)
@@ -98,7 +98,7 @@ Used Ansys to simulate fatigue behavior of PA12-polyamide hinges under repeated 
 
 
 ---
-## Personal & Passion Projects
+## <a id="personal-projects"></a>Personal & Passion Projects
 
 ##### - College Dorm Room Layout
 Designed in Onshape
