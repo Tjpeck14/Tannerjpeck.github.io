@@ -5,8 +5,8 @@ title: "Tanner Josiah Peck - Engineering Portfolio"
 
 <!-- Hero Section -->
 <div class="hero">
-  <h1 class="site-title">Tanner Josiah Peck</h1>
-  <p class="site-subtitle">Engineering & Design Portfolio</p>
+  <h1 class="site-title">Tanner Josiah Peck - Engineering & Design Portfolio</h1>
+  <p class="site-subtitle"></p>
 
   <div class="section-buttons">
     <a href="#work-projects">Work</a>
@@ -15,7 +15,6 @@ title: "Tanner Josiah Peck - Engineering Portfolio"
   </div>
 </div>
 
-# Tanner Josiah Peck - Engineering and Design Portfolio
 
 ### Background 
 B.S in Mechanical Engineering, Syracuse University
